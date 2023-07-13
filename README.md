@@ -1,2 +1,2 @@
 # OOAD_UML_diagrams
-Lab Submissions for the course Object Oriented Analysis and Design ICS 222.
+Lab Submissions for the course ICS 222 Object Oriented Analysis and Design.
